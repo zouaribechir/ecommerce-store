@@ -38,12 +38,12 @@ A modern, responsive, and premium e-commerce website built with pure HTML, CSS, 
 
 ## 🚀 Live Demo
 
-https://YOUR_USERNAME.github.io/ecommerce-store/
+https://zouaribechir.github.io/ecommerce-store/
 
 ## 📂 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-store.git
+git clone/ecommerce-store.git
 ```
 
 Open `index.html` in your browser.
@@ -79,7 +79,7 @@ ecommerce-store/
 Ahmed Mohsen
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/zouaribechir
 
 ---
 
